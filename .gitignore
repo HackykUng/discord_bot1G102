@@ -1,0 +1,18 @@
+# ซ่อน credentials — ห้าม push ขึ้น GitHub เด็ดขาด!
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
